@@ -1,0 +1,1 @@
+web: gunicorn ccslogin.wsgi --log-file
