@@ -1,1 +1,1 @@
-web: gunicorn ccslogin.wsgi --log-file
+web: gunicorn ccslogin.wsgi --log-file -
